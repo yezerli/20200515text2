@@ -127,9 +127,6 @@
   <ItemGroup>
     <ClCompile Include="20200515text2.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\20200515text1\20200515text1\funtions.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
